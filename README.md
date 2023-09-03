@@ -11,18 +11,20 @@ In this showcase, I will give a walkthrough using example on Housing BTO recent 
 #### (1) Create a Database with 2 Tables
 With SQL client installed and localhost server ready, it's good to go create my database and tables structure. <br> I named my Database as <b> Housing_BTO_DB </b> and created 2 respective Tables, <b> Site_Location </b> and <b> Pricing_Model</b>.<br>
 <br>
-It is always a good practice to segregate critical info. Likewise in this example, pricing model into separate data table.
+In an organisation where data storage is ever growing, it is always a good practice to segregate certain data into different tables to save space and also for data access security reasons. Likewise in this example, pricing info into separate data table.
+<br> <br>
+Create database and tables structures
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/declare_variables.gif" width=550>
-
-After creating 2 data tables, insert values into these data tables
 <table>
+After creating 2 data tables, insert values into these data tables
+
 <tr>
 <td><img src="https://github.com/hueeylow/SQL/blob/main/insert_values_site.gif" width="450"></td>
 <td><img src="https://github.com/hueeylow/SQL/blob/main/insert_values_pricing.gif" width="450"></td>
 </tr>
 </table>
-Select * to display results
+Display results
 <table>
 <tr>
 <td><img src="https://github.com/hueeylow/SQL/blob/main/site_location_all_1.gif" width="450"></td>
@@ -77,5 +79,18 @@ Joining both data tables for overview database
 <td>
   <b> 2.8 Tengah and Serangoon only</b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/in.gif" width ="450" height="250"></td> 
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+  <b> 2.9.1 Update Estate to Mature </b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/update_1.gif" width ="450" height="250"></td> 
+
+<td>
+  <b> 2.9.2 Return Results </b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/update_2.gif" width ="450" height="250"></td> 
 </tr>
 </table>
