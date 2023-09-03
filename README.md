@@ -39,22 +39,26 @@ Joining both data tables for overview database
   <b> 2.1 Display Selling Price from Lowest to Highest </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/order_by.gif" width ="450" height="250"></td>
 <td>
-  <b> 2.2 Display Mature/Non-Mature Type </b><br>
+  <b> 2.2 Display Estate Type </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="450" height="250"></td>
 </tr>
 
 <tr>
 <td>
-  <b> 2.3 Return results where flat type is 2-room flexi </b><br>
+  <b> 2.3 Display results where Flat Type is 2-room Flexi </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/like.gif" width ="450" height="200"></td>    
 <td>
-  <b> 2.2 Display Total no. of projects by Mature/Non-Mature Towns </b><br>
+  <b> 2.4 Display Total projects by Mature/Non-Mature Towns </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/total_proj_grp_by.gif" width ="450" height="200"></td>
 </tr>
+</table>
 
+<table>
+<tr>
+<td>
+  <b> 2.5 Display results where price range is between 45,000 and 400,000</b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="900"></td> 
 
+</tr>
 
-
-
-    
 </table>
