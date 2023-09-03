@@ -12,7 +12,13 @@ With SQL client installed and localhost server ready, it's good to go create my 
 <br>
 It is always a good practice to segregate critical info. Likewise in this example, pricing model into separate data table.
 <br>
-<img src="https://github.com/hueeylow/SQL/blob/main/declare_variables.gif" width=650>
-<br>
-After creating 2 data tables, insert values into these data tables<br>
-<img src="https://github.com/hueeylow/SQL/blob/main/insert_values_pricing.gif">
+<img src="https://github.com/hueeylow/SQL/blob/main/declare_variables.gif" width=550>
+
+After creating 2 data tables, insert values into these data tables
+<table>
+<tr>
+<td><img src="https://github.com/hueeylow/SQL/blob/main/insert_values_site.gif" width="450"></td>
+<td><img src="https://github.com/hueeylow/SQL/blob/main/insert_values_pricing.gif" width="450"></td>
+</tr>
+  <table>
+Select * to display results
