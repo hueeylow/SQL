@@ -94,3 +94,5 @@ Joining both data tables for overview database
   <img src="https://github.com/hueeylow/SQL/blob/main/update_2.gif" width ="450" height="250"></td> 
 </tr>
 </table>
+<br>
+Credits to: HDB Portal, May-2023 BTO Launch
