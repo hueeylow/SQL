@@ -36,19 +36,19 @@ Joining both data tables for overview database
 <table>
 <tr>
 <td>
-  <b> 2.1 Display Selling Price from Lowest to Highest </b><br>
+  <b> 2.1 Selling Price from Lowest to Highest </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/order_by.gif" width ="450" height="250"></td>
 <td>
-  <b> 2.2 Display Estate Type </b><br>
+  <b> 2.2 Show Estate Type </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="450" height="250"></td>
 </tr>
 
 <tr>
 <td>
-  <b> 2.3 Display results where Flat Type is 2-room Flexi </b><br>
+  <b> 2.3 Where Flat Type is 2-room Flexi </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/like.gif" width ="450" height="200"></td>    
 <td>
-  <b> 2.4 Display Total projects by Mature/Non-Mature Towns </b><br>
+  <b> 2.4 Total projects by Mature/Non-Mature Towns </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/total_proj_grp_by.gif" width ="450" height="200"></td>
 </tr>
 </table>
@@ -56,8 +56,12 @@ Joining both data tables for overview database
 <table>
 <tr>
 <td>
-  <b> 2.5 Display results where price range is between $45,000 and $400,000</b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="900"></td> 
+  <b> 2.5 Price Range between $45,000 and $400,000</b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="450" height="250"></td> 
+
+<td>
+  <b> 2.6 Total Units by Project</b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/total_units.gif" width ="450" height="250"></td> 
 
 </tr>
 
