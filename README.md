@@ -15,4 +15,3 @@ It is always a good practice to segregate critical info. Likewise in this exampl
 <img src="https://github.com/hueeylow/SQL/blob/main/declare_variables.gif" width=650>
 <br>
 After creating 2 data tables, insert values into these data tables<br>
-<img src="https://github.com/hueeylow/SQL/blob/main/insert_values_site.gif" width=645>
