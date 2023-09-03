@@ -42,7 +42,9 @@ Joining both data tables for overview database
   <b> 2.2 Show Estate Type </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="450" height="250"></td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td>
   <b> 2.3 Where Flat Type is 2-room Flexi </b><br>
@@ -62,7 +64,20 @@ Joining both data tables for overview database
 <td>
   <b> 2.6 Total Units by Project</b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/total_units.gif" width ="450" height="250"></td> 
-
 </tr>
-
 </table>
+
+
+<table>
+<tr>
+<td>
+  <b> 2.7 Average Selling Price (Mature Estate) </b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/like_mature.gif" width ="450" height="250"></td> 
+
+<td>
+  <b> 2.8 Average Selling Price (Non-Mature Estate)</b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/like_non-mature.gif" width ="450" height="250"></td> 
+</tr>
+</table>
+
+
