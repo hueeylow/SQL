@@ -95,3 +95,4 @@ Joining both data tables for overview database
 </tr>
 </table>
 <br>
+I hope you have enjoyed reading my post with the above illustrated SQL demo!
