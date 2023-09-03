@@ -1,7 +1,7 @@
 # SQL Project Demo
 Welcome to my SQL project demo! 
 
-In this showcase, I will give a walkthrough using example on Housing BTO recent launch:
+In this showcase, I will give a walkthrough using example on Housing BTO launch:
 
 ## <b> Approach </b><br>
 (1) Create a Database with 2 Tables<br>
