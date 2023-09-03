@@ -42,4 +42,19 @@ Joining both data tables for overview database
   <b> 2.2 Display Mature/Non-Mature Type </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="450" height="250"></td>
 </tr>
+
+<tr>
+<td>
+  <b> 2.3 Return results where flat type is 2-room flexi </b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/like.gif" width ="450" height="200"></td>    
+<td>
+  <b> 2.2 Display Total no. of projects by Mature/Non-Mature Towns </b><br>
+  <img src="https://github.com/hueeylow/SQL/blob/main/total_proj_grp_by.gif" width ="450" height="200"></td>
+</tr>
+
+
+
+
+
+    
 </table>
