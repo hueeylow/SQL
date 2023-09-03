@@ -29,3 +29,4 @@ Select * to display results
 </tr>
   <table>
 Joining both data tables for overview database
+<img src="https://github.com/hueeylow/SQL/blob/main/data_overview.gif" width ="900">
