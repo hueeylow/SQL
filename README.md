@@ -22,3 +22,10 @@ After creating 2 data tables, insert values into these data tables
 </tr>
   <table>
 Select * to display results
+<table>
+<tr>
+<td><img src="https://github.com/hueeylow/SQL/blob/main/site_location_all_1.gif" width="450"></td>
+<td><img src="https://github.com/hueeylow/SQL/blob/main/pricing_model_all_1.gif" width="450"></td>
+</tr>
+  <table>
+Joining both data tables for overview database
