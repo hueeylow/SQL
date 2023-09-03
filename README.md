@@ -56,7 +56,7 @@ Joining both data tables for overview database
 <table>
 <tr>
 <td>
-  <b> 2.5 Display results where price range is between 45,000 and 400,000</b><br>
+  <b> 2.5 Display results where price range is between $45,000 and $400,000</b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="900"></td> 
 
 </tr>
