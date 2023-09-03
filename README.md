@@ -94,5 +94,4 @@ Joining both data tables for overview database
   <img src="https://github.com/hueeylow/SQL/blob/main/update_2.gif" width ="450" height="250"></td> 
 </tr>
 </table>
-<br>
 I hope you have enjoyed reading my post with the above illustrated SQL demo!
