@@ -77,7 +77,7 @@ Joining both data tables for overview database
   <img src="https://github.com/hueeylow/SQL/blob/main/like_mature.gif" width ="450" height="250"></td> 
 
 <td>
-  <b> 2.8 Tengah and Serangoon only</b><br>
+  <b> 2.8 Location sites in Tengah and Serangoon only</b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/in.gif" width ="450" height="250"></td> 
 </tr>
 </table>
