@@ -96,3 +96,5 @@ Joining both data tables for overview database
 </table>
 
 I hope you have enjoyed reading my post with the above illustrated SQL demo!
+
+<a href = "https://github.com/hueeylow"> < Back </a>
