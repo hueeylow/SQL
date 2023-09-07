@@ -86,7 +86,7 @@ Joining both data tables for overview database
 <table>
 <tr>
 <td>
-  <b> 2.9.1 Update Estate to Mature </b><br>
+  <b> 2.9.1 Update Estate Type from 'Non-Mature to 'Mature' </b><br>
   <img src="https://github.com/hueeylow/SQL/blob/main/update_1.gif" width ="450" height="250"></td> 
 
 <td>
