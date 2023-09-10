@@ -4,7 +4,7 @@ Welcome to my project demo on SQL Query!
 <br>
 In this showcase, I will show various methods to query for meaningful data from a database:
 <br>
-## <b> Data Prepration </b><br>
+## <b> Data Preparation </b><br>
 Step 1: Create Database before import raw data<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/01_sql_query.gif" width="800">
 <br>
