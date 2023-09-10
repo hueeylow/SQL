@@ -55,4 +55,5 @@ Although the column [date_added_converted] contains NULL values, however there i
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/08_nf_outcome.gif" width="800">
 <br>
+<br>
 Here are the data files of before and after data cleaning!
