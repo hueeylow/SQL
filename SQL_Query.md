@@ -2,7 +2,7 @@
 Welcome to my project demo on SQL Query!
 <br>
 <br>
-In this showcase, I will show various methods to query for meaningful data from a Employee database (downloaded from Kaggle):
+In this showcase, I will show various methods to query data from a Employees dataset (downloaded from Kaggle):
 <br>
 ## <b> Data Preparation </b><br>
 Step 1: Create Database before import raw data<br>
