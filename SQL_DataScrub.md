@@ -6,3 +6,5 @@ Data cleaning is vital procedure in data analytics process because it improves t
 <br>
 <br>
 In this showcase, I will walk you through on how to perform data cleansing:
+<br>
+## <b> Approach </b><br>
