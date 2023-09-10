@@ -1,4 +1,4 @@
-# SQL Project Demo - Build a Database from Scatch
+# SQL Project Demo - Build a Database from Scratch
 Welcome to my SQL project demo on how to construct a database! 
 
 In this showcase, I will walk you through on how to create a database for Housing Built-To-Order launch:
