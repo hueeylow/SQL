@@ -34,3 +34,7 @@ Step 2: Imported 2 data tables, namely HRData and EmpSalary
 <b>Query 7</b> <br> Show top 5 Employee ID by monthly income, job role, department where monthly income is less than 5000 and training times last year is at least 6 years. <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/09_sql_query.gif" width="800"><br>
 
+Check out my SQL source queries via <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query_Demo.sql"> here</a>
+<br>
+<br>
+<a href = "https://github.com/hueeylow"> < Back to main page </a>
