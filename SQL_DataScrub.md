@@ -1,8 +1,8 @@
 # SQL Project Demo - Data Cleansing
-Welcome to my SQL project demo on how to do "data scrub" from source database.
+Welcome to my SQL project demo on how to do "data scrub" from downloaded source database.
 <br>
 <br>
-Data cleaning is vital procedure in data analytics process because it improves the quality and accuracy of the data, when incorrect information are rectify, unused data and duplicates are removed. And of course, business decisions are relying on factual data as source of truth.
+Data cleaning is vital procedure in data analytics process because it improves the quality and accuracy of the data, when incorrect information is rectified, unused data and duplicates are removed. And of course, business decisions is always relying on accurate data as source of truth.
 <br>
 <br>
 In this showcase, I will walk you through on how to perform data cleansing:
@@ -18,34 +18,35 @@ In this showcase, I will walk you through on how to perform data cleansing:
 <br> <br>
 (3) Delete rows with no values
 <br>
-It is observed that NULL values is existed in the column fields of 'director', 'country', 'cast' and 'title'. These data rows with NULL values has to be removed due to incomplete data info. <br> <br>It is a good practice to do a SELECT statement to check the right columns is being called, before executing the DELETE statement: <br>
-<br>
-DELETE FROM table_name WHERE column_name_1, column_name_2, ... is NULL
-<br>
-<br>
+NULL values found in the column fields of 'director', 'country', 'cast' and 'title' had to be removed due to incomplete data as well as data inconsistency. <br> <br>It is a good practice to do a SELECT statement to check the right columns is being called, before executing the DELETE statement with conditions: <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/03_nf_view_data_import.gif" width="800">
 <br>
 <br>
-(4) Convert Date Type Format
-<br>
-The date type format is in datetime format of YYYY-MM-DD HH:MI:SS. We will Date format of YYYY-MM-DD.
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_1.gif " width="800">
 
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_2.gif" width="800">
-
+(4) Convert Date Type Format
+<br>
+Existing date format is in YYYY-MM-DD HH:MI:SS. The approach will convert the format to YYYY-MM-DD as HH:MI:SS are not required.
+<br> <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_1.gif" width="800">
-
+It is a good practice to do a SELECT statement to check the right column is being called, with an additional column to display desired outcome: <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_2.gif" width="800">
-
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_1.gif" width="800">
-
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_2.gif" width="800">
-
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_3.gif" width="800">
-
-
+<br>
+(5) Remove Special Characters
+<br> 
+Special characters of ' and # were removed using UPDATE statement with Conditions
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_1.gif" width="700">
+<br> 
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_2.gif" width="700">
+<br> 
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_5.gif" width="700">
+<br> 
+(6) Further Checks and Cleansing
+<br>
+Though the date_added_converted contains NULL values, however there is value in the show release year. Hence, will assign MM-DD value of 01-01-YYYY to replace the NULL values.
 <img src="https://github.com/hueeylow/SQL/blob/main/07_nf_remove_date_convert_null_1.gif" width="800">
-
+<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/07_nf_remove_date_convert_null_2.gif" width="800">
-
+<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/08_nf_outcome.gif" width="800">
