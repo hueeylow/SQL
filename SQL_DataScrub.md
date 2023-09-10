@@ -56,7 +56,7 @@ Although the column [date_added_converted] contains NULL values, however there i
 <img src="https://github.com/hueeylow/SQL/blob/main/08_nf_outcome.gif" width="800">
 <br>
 <br>
-Compare both files of <a href="https://github.com/hueeylow/SQL/blob/main/netflix_titles_original.xls"> before </a> and <a href="https://github.com/hueeylow/SQL/blob/main/netflix_titles_cleaned.xls"> after </a>. You will need to download the raw file to view the data.
+Compare both files of <a href="https://github.com/hueeylow/SQL/blob/main/netflix_titles_original.xls"> before </a> and <a href="https://github.com/hueeylow/SQL/blob/main/netflix_titles_cleaned.xls"> after</a>. You will need to download the raw file to view the data.
 <br>
 <br>
 <a href = "https://github.com/hueeylow"> < Back to main page </a>
