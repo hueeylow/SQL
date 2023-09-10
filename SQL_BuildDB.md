@@ -1,7 +1,7 @@
 # SQL Project Demo - Build a Database from Scratch
 Welcome to my SQL project demo on how to construct a database! 
 
-In this showcase, I will walk you through on how to create a database for Housing Built-To-Order launch:
+In this showcase, I will walk you through the steps in this illusrated demo - Housing Built-To-Order Database.
 
 ## <b> Approach </b><br>
 (1) Create a Database with 2 Tables<br>
@@ -32,69 +32,42 @@ Display results
 </tr>
 </table>
 Joining both data tables for overview database
-<img src="https://github.com/hueeylow/SQL/blob/main/data_overview.gif" width ="900">
+<img src="https://github.com/hueeylow/SQL/blob/main/data_overview.gif" width ="750">
     
 #### (2) Query results with conditions / set parameters
-<table>
-<tr>
-<td>
+
   <b> 2.1 Selling Price from Lowest to Highest </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/order_by.gif" width ="450" height="250"></td>
-<td>
+  <img src="https://github.com/hueeylow/SQL/blob/main/order_by.gif" width ="650">
+
   <b> 2.2 Show Estate Type </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="450" height="250"></td>
-</tr>
-</table>
+  <img src="https://github.com/hueeylow/SQL/blob/main/distinct.gif" width ="650">
 
-<table>
-<tr>
-<td>
   <b> 2.3 Where Flat Type is 2-room Flexi </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/like.gif" width ="450" height="200"></td>    
-<td>
+  <img src="https://github.com/hueeylow/SQL/blob/main/like.gif" width ="650">   
+
   <b> 2.4 Total projects by Mature/Non-Mature Towns </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/total_proj_grp_by.gif" width ="450" height="200"></td>
-</tr>
-</table>
+  <img src="https://github.com/hueeylow/SQL/blob/main/total_proj_grp_by.gif" width ="650">
 
-<table>
-<tr>
-<td>
   <b> 2.5 Price Range between $45,000 and $400,000</b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="450" height="250"></td> 
+  <img src="https://github.com/hueeylow/SQL/blob/main/price_range.gif" width ="650">
 
-<td>
   <b> 2.6 Total Units by Project</b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/total_units.gif" width ="450" height="250"></td> 
-</tr>
-</table>
+  <img src="https://github.com/hueeylow/SQL/blob/main/total_units.gif" width ="650">
 
-
-<table>
-<tr>
-<td>
   <b> 2.7 Average Selling Price (Mature Estate) </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/like_mature.gif" width ="450" height="250"></td> 
+  <img src="https://github.com/hueeylow/SQL/blob/main/like_mature.gif" width ="650">
 
-<td>
   <b> 2.8 Location sites in Tengah and Serangoon only</b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/in.gif" width ="450" height="250"></td> 
-</tr>
-</table>
+  <img src="https://github.com/hueeylow/SQL/blob/main/in.gif" width ="650">
 
-
-<table>
-<tr>
-<td>
   <b> 2.9.1 Update Estate Type from 'Non-Mature to 'Mature' </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/update_1.gif" width ="450" height="250"></td> 
+  <img src="https://github.com/hueeylow/SQL/blob/main/update_1.gif" width ="650">
 
-<td>
   <b> 2.9.2 Return Results </b><br>
-  <img src="https://github.com/hueeylow/SQL/blob/main/update_2.gif" width ="450" height="250"></td> 
-</tr>
-</table>
-
+  <img src="https://github.com/hueeylow/SQL/blob/main/update_2.gif" width ="650">
+<br>
+<br>
 I hope you have enjoyed reading my post with the above illustrated SQL demo!
-
+<br>
+<br>
 <a href = "https://github.com/hueeylow"> < Back to main page </a>
