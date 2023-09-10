@@ -1,4 +1,4 @@
-# SQL Project Demo
+# SQL Project Demo - Data Cleansing
 Welcome to my SQL project demo on how to do "data scrub" from source database.
 <br>
 <br>
