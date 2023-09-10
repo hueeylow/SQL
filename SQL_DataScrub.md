@@ -39,11 +39,11 @@ It is a good practice to do a SELECT statement to check the correct column is be
 <b>(5) Remove Unwanted Characters</b>
 <br> 
 Special characters of ' and # were removed using UPDATE statement with conditions
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_1.gif" width="700">
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_1.gif" width="800">
 <br> 
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_2.gif" width="700">
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_2.gif" width="800">
 <br> 
-<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_5.gif" width="700">
+<img src="https://github.com/hueeylow/SQL/blob/main/06_nf_remove_special_char_5.gif" width="800">
 <br> 
 <br>
 <b>(6) UPDATE NULL with Assigned Value </b>
