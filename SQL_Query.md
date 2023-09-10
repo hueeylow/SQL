@@ -5,7 +5,7 @@ Welcome to my project demo on SQL Query!
 In this showcase, I will show various methods to query data from Employees' datasets (downloaded from Kaggle):
 <br>
 ## <b> Data Preparation </b><br>
-Step 1: Create Database before import raw data<br>
+Step 1: Create a database before importing the datasets<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/01_sql_query.gif" width="800">
 <br>
 Step 2: Imported 2 data tables, namely HRData and EmpSalary
