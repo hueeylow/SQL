@@ -6,10 +6,8 @@ In this showcase, I will show various methods to query data from Employees' data
 <br>
 ## <b> Data Preparation </b><br>
 Step 1: Create a database before importing the datasets<br>
+Step 2: Import two datasets and rename them as HRData and EmpSalary
 <img src="https://github.com/hueeylow/SQL/blob/main/01_sql_query.gif" width="800">
-<br>
-<br>
-Step 2: Import 2 datasets and rename them as HRData and EmpSalary
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/02_sql_query.gif" width="800"> <br>
 ## <b> Query Methods </b><br>
