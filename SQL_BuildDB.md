@@ -1,7 +1,7 @@
 # SQL Project Demo
 Welcome to my SQL project demo on how to construct a database! 
 
-In this showcase, I will give a walkthrough on creating a fiction database for Housing Built-To-Order launch:
+In this showcase, I will walk you through on how to create a ficticious database for Housing Built-To-Order launch:
 
 ## <b> Approach </b><br>
 (1) Create a Database with 2 Tables<br>
