@@ -18,7 +18,7 @@ In this showcase, I will walk you through on how to perform data cleansing:
 <br> <br>
 (3) Delete rows with no values
 <br>
-NULL values found in the column fields of 'director', 'country', 'cast' and 'title' had to be removed due to incomplete data as well as data inconsistency. <br> <br>It is a good practice to do a SELECT statement to check the correct columns is being called, before executing the DELETE statement with conditions: <br>
+NULL values found in the column fields of 'director', 'country', 'cast' and 'title' had to be removed, due to incomplete data as well as data inconsistency. <br> <br>It is a good practice to do a SELECT statement to check the correct columns is being called, before executing the DELETE statement with conditions: <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/03_nf_view_data_import.gif" width="800">
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_1.gif " width="800">
@@ -54,3 +54,5 @@ Although the column [date_added_converted] contains NULL values, however there i
 <img src="https://github.com/hueeylow/SQL/blob/main/07_nf_remove_date_convert_null_2.gif" width="800">
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/08_nf_outcome.gif" width="800">
+<br>
+Here are the data files of before and after data cleaning!
