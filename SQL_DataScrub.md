@@ -8,12 +8,26 @@ Data cleaning is vital procedure in data analytics process because it improves t
 In this showcase, I will walk you through on how to perform data cleansing:
 <br>
 ## <b> Approach </b><br>
+(1) Create a Database <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/01_nf_create_db.gif" width="800">
-
+<br>
+<br>
+(2) Import excel file to SQL server
+<br> Go to the newly created database 'NetflixDB' from the object explorer panel, right-click and select tasks, select import data. After importing, you will see total no. of rows imported. 
 <img src="https://github.com/hueeylow/SQL/blob/main/02_nf_import.gif " width="800">
-
+<br> <br>
+(3) Delete rows with no values
+<br>
+It is observed that NULL values is existed in the column fields of director, country, cast and title. These data rows with NULL values has to be removed due to incomplete data info. <br> <br> We will use DELETE statement:<br>
+<br>
+DELETE FROM table_name WHERE column_name_1, column_name_2, ... is NULL
+<br>
+<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/03_nf_view_data_import.gif" width="800">
-
+<br>
+<br>
+(4) Convert Date Type Format
+<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_1.gif " width="800">
 
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_2.gif" width="800">
