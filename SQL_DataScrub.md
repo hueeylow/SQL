@@ -18,7 +18,7 @@ In this showcase, I will walk you through on how to perform data cleansing:
 <br> <br>
 (3) Delete rows with no values
 <br>
-It is observed that NULL values is existed in the column fields of director, country, cast and title. These data rows with NULL values has to be removed due to incomplete data info. <br> <br> We will use DELETE statement:<br>
+It is observed that NULL values is existed in the column fields of 'director', 'country', 'cast' and 'title'. These data rows with NULL values has to be removed due to incomplete data info. <br> <br>It is a good practice to do a SELECT statement to check the right columns is being called, before executing the DELETE statement: <br>
 <br>
 DELETE FROM table_name WHERE column_name_1, column_name_2, ... is NULL
 <br>
@@ -28,6 +28,7 @@ DELETE FROM table_name WHERE column_name_1, column_name_2, ... is NULL
 <br>
 (4) Convert Date Type Format
 <br>
+The date type format is in datetime format of YYYY-MM-DD HH:MI:SS. We will Date format of YYYY-MM-DD.
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_1.gif " width="800">
 
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_2.gif" width="800">
