@@ -32,6 +32,9 @@ Step 2: Import two datasets into SQL server, and rename them respectively as HRD
 <img src="https://github.com/hueeylow/SQL/blob/main/08_sql_query.gif" width="700"><br><br>
 <b>Query 7</b> <br> Show top 5 Employee ID by monthly income, job role, department where monthly income is less than $5,000 and training times last year is at least 6 times. <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/09_sql_query.gif" width="700"><br>
+<br>
+<b>Query 8</b> <br> Show total attrition by department	 <br>
+<img src="https://github.com/hueeylow/SQL/blob/main/10_sql_query.gif" width="700"><br>
 
 Check out my source file for SQL queries in this demo via <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query_Demo.sql"> here</a>
 <br>
