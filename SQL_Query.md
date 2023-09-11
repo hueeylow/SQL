@@ -24,8 +24,8 @@ Step 2: Import two datasets into SQL server, and rename them respectively as HRD
 <b>Query 3</b> <br> Show list of employee ID by monthly income, years since last promotion, years of service, department, job title whose years of service is at least 20 years.
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_sql_query.gif" width="800"> <br> <br>
-<b>Query 4</b> <br> Show list of employees ID, annual based salary, new based salary based on percent increment hike, job title and department, whose employees’ job level is 5.<br>
-<img src="https://github.com/hueeylow/SQL/blob/main/06_sql_query_1.gif" width="800"><br> <br>
+<b>Query 4</b> <br> Show list of employees ID, annual base salary, new base salary based on percent increment hike, job title and department, whose employees’ job level is 5.<br>
+<img src="https://github.com/hueeylow/SQL/blob/main/06_sql_query_2.gif" width="800"><br> <br>
 <b>Query 5</b> <br> Show stats of Business Travel where Monthly Income is at least or greater than $10,000.<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/07_sql_query.gif" width="800"><br><br>
 <b>Query 6</b> <br> Show Total no. of Employees, Job Role where monthly income is greater than $5,000.<br>
