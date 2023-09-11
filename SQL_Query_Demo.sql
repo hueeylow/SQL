@@ -30,7 +30,7 @@ FROM HRDataDB.dbo.HRData as a
 WHERE YearsAtCompany > = 20
 
 -- Query 4 Statement: Show list of employees ID, annual base salary, new base salary based on percent salary hike, job title and department, whose employees’ job level is 5.
-SELECT EmployeeNumber, MonthlyIncome*12 as AnnualBaseSalary, (MonthlyIncome*(PercentSalaryHike/100))*12 as NewAnnualBasedSalary, PercentSalaryHike, JobRole, Department
+SELECT EmployeeNumber, MonthlyIncome*12 as AnnualBaseSalary, (MonthlyIncome*(PercentSalaryHike/100))*12 as NewAnnualBaseSalary, PercentSalaryHike, JobRole, Department
 FROM HRDataDB.dbo.HRData as a
 	FULL JOIN HRDataDB.dbo.EmpSalary as b
 		ON a.EmployeeNumber = b.EmpID
