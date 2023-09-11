@@ -28,9 +28,9 @@ Step 2: Import two datasets into SQL server, and rename them respectively as HRD
 <img src="https://github.com/hueeylow/SQL/blob/main/06_sql_query_2.gif" width="800"><br> <br>
 <b>Query 5</b> <br> Show stats of Business Travel where Monthly Income is at least or greater than $10,000.<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/07_sql_query.gif" width="800"><br><br>
-<b>Query 6</b> <br> Show Total no. of Employees, Job Role where monthly income is greater than $5,000.<br>
+<b>Query 6</b> <br> Show total no. of Employees, Job Role where monthly income is greater than $5,000.<br>
 <img src="https://github.com/hueeylow/SQL/blob/main/08_sql_query.gif" width="800"><br><br>
-<b>Query 7</b> <br> Show top 5 Employee ID by monthly income, job role, department where monthly income is less than $5,000 and training times last year is at least 6 years. <br>
+<b>Query 7</b> <br> Show top 5 Employee ID by monthly income, job role, department where monthly income is less than $5,000 and training times last year is at least 6 times. <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/09_sql_query.gif" width="800"><br>
 
 Check out my source file for SQL queries in this demo via <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query_Demo.sql"> here</a>
