@@ -64,3 +64,11 @@ FROM HRDataDB.dbo.HRData as a
 WHERE MonthlyIncome <5000
 AND TrainingTimesLastYear > = 6
 ORDER BY MonthlyIncome DESC
+
+-- Query 8 Statement: Show total attrition count by department	
+SELECT Department, count(EmployeeNumber) as Total_Employees
+FROM HRDataDB.dbo.HRData as a
+	FULL JOIN HRDataDB.dbo.EmpSalary as b
+		ON a.EmployeeNumber = b.EmpID
+WHERE Attrition = 1
+GROUP by Department
