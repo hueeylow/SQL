@@ -54,7 +54,7 @@ WHERE MonthlyIncome >5000
 GROUP BY JobRole
 
 
--- Query 7 Statement: Show top 5 Employee ID by monthly income, job role, department where monthly income is less than $5,000 and training times last year is at least 6 years
+-- Query 7 Statement: Show top 5 Employee ID by monthly income, job role, department where monthly income is less than $5,000 and training times last year is at least 6 times.
 SELECT Top(5) EmployeeNumber,  MonthlyIncome, JobRole, Department
 FROM HRDataDB.dbo.HRData as a
 	FULL JOIN HRDataDB.dbo.EmpSalary as b
