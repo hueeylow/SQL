@@ -1,8 +1,8 @@
-# SQL Project Demo - Data Cleaning
+# SQL Project Demo - Data Cleansing
 Welcome to my SQL project demo on how to do "data scrub" from downloaded source database.
 <br>
 <br>
-Data Cleaning is vital procedure in data analytics process because it improves the quality and accuracy of the data, when incorrect information is rectified, unused data and duplicates are removed. And of course, business decisions is always relying on accurate data as source of truth.
+Data Cleansing is vital procedure in data analytics process because it improves the quality and accuracy of the data, when incorrect information is rectified, unused data and duplicates are removed. And of course, business decisions is always relying on accurate data as source of truth.
 <br>
 <br>
 In this showcase, I will walk you through on how to perform data cleansing:
