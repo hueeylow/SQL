@@ -18,7 +18,7 @@ In this showcase, I will walk you through on how to perform data cleaning:
 <br> <br>
 <b>(3) Delete Rows with No Values </b>
 <br>
-NULL values found in the column fields of 'director', 'country', 'cast' and 'title' had to be removed, due to incomplete data as well as data inconsistency. <br> <br>It is a good practice to do a SELECT statement to check the correct columns is being called, before executing the DELETE statement with conditions: <br>
+NULL values found in the column fields of 'director', 'country', 'cast' and 'title' had to be removed, due to incomplete data as well as data inconsistency. <br> <br>It is good practice to do a SELECT statement to check the correct columns is being called, before executing the DELETE statement with conditions: <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/03_nf_view_data_import.gif" width="800">
 <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/04_nf_delete_null_1.gif " width="800">
@@ -29,7 +29,7 @@ NULL values found in the column fields of 'director', 'country', 'cast' and 'tit
 <b>(4) Convert Date Type Format </b>
 <br>
 Original format in date_added is in YYYY-MM-DD HH:MI:SS. The approach will convert the format to YYYY-MM-DD, as HH:MI:SS is not required.
-It is a good practice to do a SELECT statement to check the correct column is being called with an additional column to display desired outcome. Once validate, is good to proceed to update. <br>
+It is good practice to do a SELECT statement to check the correct column is being called with an additional column to display desired outcome. Once validate, is good to proceed to update. <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_1.gif" width="800">
 <br> 
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_2.gif" width="800">
