@@ -29,10 +29,9 @@ NULL values found in the column fields of 'director', 'country', 'cast' and 'tit
 <b>(4) Convert Date Type Format </b>
 <br>
 Original format in date_added is in YYYY-MM-DD HH:MI:SS. The approach will convert the format to YYYY-MM-DD, as HH:MI:SS is not required.
-<br> 
+It is a good practice to do a SELECT statement to check the correct column is being called with an additional column to display desired outcome. Once validate, is good to proceed to update. <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_1.gif" width="800">
 <br> 
-It is a good practice to do a SELECT statement to check the correct column is being called, with an additional column to display desired outcome: <br>
 <img src="https://github.com/hueeylow/SQL/blob/main/05_nf_convert_date_2.gif" width="800">
 <br>
 <br>
