@@ -1,5 +1,5 @@
 # SQL Project Demo - Data Cleaning
-Welcome to my SQL project demo on how to perform data scrubbing on raw data source.
+Welcome to my SQL project demo on how to perform data scrubbing on raw dataset.
 <br>
 <br>
 Data Cleaning is essential step before ETL process, where it fix data with errors and inconsistencies; remove unused and duplicates, in order to enhance usability of the data before loading to data warehouse.
