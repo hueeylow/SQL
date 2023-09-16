@@ -2,7 +2,7 @@
 Welcome to my SQL project demo on how to do "data scrub" from downloaded source database.
 <br>
 <br>
-Data Cleansing is essential step in overall ETL process, where it fix data with errors and inconsistencies, remove unused and duplicates, so as to improve the quality of the database.
+Data Cleansing is essential step before ETL process, where it fix data with errors and inconsistencies; remove unused and duplicates, in order to enhance usability of the data before loading to data warehouse.
 <br>
 <br>
 In this showcase, I will walk you through on how to perform data cleaning:
