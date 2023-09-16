@@ -4,9 +4,6 @@ Welcome to my SQL project demo on how to perform data scrubbing on raw data sour
 <br>
 Data Cleaning is essential step before ETL process, where it fix data with errors and inconsistencies; remove unused and duplicates, in order to enhance usability of the data before loading to data warehouse.
 <br>
-<br>
-In this showcase, I will walk you through on how to perform data cleaning:
-<br>
 ## <b> Approach </b><br>
 <b> (1) Create a Database <br> </b>
 <img src="https://github.com/hueeylow/SQL/blob/main/01_nf_create_db.gif" width="800">
